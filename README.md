@@ -3,11 +3,10 @@
 ![](https://drive.google.com/uc?export=view&id=1_bH9Bbs46n3Fmd2FCdr9nGXooAHzoW-X)
 
 ### Predicting the reception of comments on the New York Times Articles 
-Since only notebooks were to be submitted on Gradescope, we have made
-this README file for the rest of the work. Gradescope submission
-contains only the final notebook (final\_project\_520.ipynb) and other
-supporting notebooks created during the intermediate stages, along with
-this README file.
+
+The [report](Report.pdf) explains the approach and results of the work. 
+
+The `final` directory contains the following work. 
 
 ##### Final notebook: ‘final\_project\_520.ipynb’ 
 
