@@ -2,20 +2,18 @@
 
 ![](https://drive.google.com/uc?export=view&id=1_bH9Bbs46n3Fmd2FCdr9nGXooAHzoW-X)
 
-### Predicting the reception of comments on the New York Times Articles {.code-line data-line-start="5" data-line-end="6"}
-
+### Predicting the reception of comments on the New York Times Articles 
 Since only notebooks were to be submitted on Gradescope, we have made
 this README file for the rest of the work. Gradescope submission
 contains only the final notebook (final\_project\_520.ipynb) and other
 supporting notebooks created during the intermediate stages, along with
 this README file.
 
-##### Final notebook: ‘final\_project\_520.ipynb’ {.code-line data-line-start="8" data-line-end="9"}
+##### Final notebook: ‘final\_project\_520.ipynb’ 
 
 * * * * *
 
-#### Note: {.code-line data-line-start="10" data-line-end="11"}
-
+#### Note: 
 These notebooks cannot be run due to absence of other supporting files.
 To get it working, you may have to download the submission folder from
 the link below (Link to final submission) and follow the instructions
@@ -43,31 +41,30 @@ final\_project\_520.ipynb file:
 -   Raw\_data\_sample
 -   Other\_Notebooks
 
-###### final\_project\_520.ipynb: {.code-line data-line-start="28" data-line-end="29"}
-
+###### final\_project\_520.ipynb:
 This is the final notebook, which demonstrates some of the important
 results of our work.
 
-###### Final\_data folder: {.code-line data-line-start="30" data-line-end="31"}
+###### Final\_data folder:
 
 Data folder contains final train, test and validation datasets obtained
 after all the data wrangling. These datasets are fed into the model. The
 training set was not included because the
 
-###### pickle\_file folder: {.code-line data-line-start="35" data-line-end="36"}
+###### pickle\_file folder: 
 
 pickle\_file folder has the final models saved as pickle files. The
 models for LDA, LDA visualization, autosklearn model and the final
 XGBoost model.
 
-###### Raw\_data\_sample folder: {.code-line data-line-start="37" data-line-end="38"}
+###### Raw\_data\_sample folder:
 
 Raw\_data\_sample folder contains sample of the original raw data files
 (Original raw files was too large. It is present in the google drive
 link for data provided below.). Multiple preprocessing was performed on
 this dataset to obtain the final dataset that was used for Modelling.
 
-###### Other\_Notebooks folder: {.code-line data-line-start="40" data-line-end="41"}
+###### Other\_Notebooks folder: 
 
 Other\_Notebooks folder contains the supporting notebooks . These
 notebooks were used to do all preprocessing, EDA, Feature enginnering
@@ -96,12 +93,12 @@ size of the raw dataset is 1.4GB.
 Codes folder in “link to codes” contains all the same notebooks that are
 present in Other\_Notebooks folder mentioned above.
 
-### Built With {.code-line data-line-start="56" data-line-end="57"}
+### Built With 
 
 -   Python 3.6
 -   Google Collaboratory
 
-### Authors {.code-line data-line-start="60" data-line-end="61"}
+### Authors 
 
 -   Megha Mishra
 -   Saumya Shah
